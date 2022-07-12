@@ -1,0 +1,13 @@
+#full_post {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+body {
+    font-size: medium;
+}
+
+h1 {
+    border: 2px solid black;
+    font-size: large;
+}
