@@ -7,7 +7,28 @@ body {
     font-size: medium;
 }
 
-h1 {
+#post_title {
     border: 2px solid black;
     font-size: large;
+}
+
+#post_body {
+    border: 2px solid black;
+}
+
+#comments {
+    border: 2px solid black;
+}
+
+#new_comment {
+    border: 2px solid black;
+}
+
+input {
+    border: none;
+    color: grey;
+}
+
+button {
+
 }
